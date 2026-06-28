@@ -1,0 +1,4 @@
+001.mp4: The robotic gripper place the green bottle inside the gray container.
+014.mp4: The robotic gripper pick up the pink ball from the purple plate and place it in the blue container.
+single_arm_0001.mp4: The robotic gripper uses the white brush it is holding to clean the bathtub.
+single_arm_0002.mp4: The robotic gripper wipes the countertop using a white cloth near the sink.
